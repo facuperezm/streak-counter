@@ -1,6 +1,9 @@
 {
   "name": "@facuperezm/streak-counter",
   "version": "0.0.1",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "This is a basic streak counter for the browser - inspired by Duolingo - written in TypeScript and meant for the browser (uses localStorage).",
   "repository": {
     "type": "git",
